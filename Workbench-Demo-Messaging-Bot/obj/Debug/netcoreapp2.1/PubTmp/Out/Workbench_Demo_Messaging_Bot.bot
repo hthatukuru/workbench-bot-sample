@@ -1,0 +1,23 @@
+﻿{
+  "name": "Workbench_Demo_Messaging_Bot",
+  "services": [
+    {
+      "type": "endpoint",
+      "name": "development",
+      "endpoint": "http://localhost:3978/api/messages",
+      "appId": "",
+      "appPassword": "",
+      "id": "1"
+    },
+    {
+      "type": "endpoint",
+      "name": "production",
+      "endpoint": "https://workbench-demo-hathatuk.azurewebsites.net/api/messages",
+      "appId": "040d99fa-76dd-4d49-933c-c18d0c965339",
+      "appPassword": "lhraaFYCP841!!jjFVV50+(",
+      "id": "2"
+    }
+  ],
+  "padlock": "",
+  "version": "2.0"
+}

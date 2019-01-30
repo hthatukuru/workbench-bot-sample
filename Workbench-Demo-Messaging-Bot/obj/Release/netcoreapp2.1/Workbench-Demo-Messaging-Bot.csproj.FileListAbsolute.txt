@@ -1,0 +1,13 @@
+C:\Users\hathatuk\source\repos\Workbench-Demo-Messaging-Bot\Workbench-Demo-Messaging-Bot\bin\Release\netcoreapp2.1\Workbench_Demo_Messaging_Bot.bot
+C:\Users\hathatuk\source\repos\Workbench-Demo-Messaging-Bot\Workbench-Demo-Messaging-Bot\bin\Release\netcoreapp2.1\Workbench-Demo-Messaging-Bot.deps.json
+C:\Users\hathatuk\source\repos\Workbench-Demo-Messaging-Bot\Workbench-Demo-Messaging-Bot\bin\Release\netcoreapp2.1\Workbench-Demo-Messaging-Bot.runtimeconfig.json
+C:\Users\hathatuk\source\repos\Workbench-Demo-Messaging-Bot\Workbench-Demo-Messaging-Bot\bin\Release\netcoreapp2.1\Workbench-Demo-Messaging-Bot.runtimeconfig.dev.json
+C:\Users\hathatuk\source\repos\Workbench-Demo-Messaging-Bot\Workbench-Demo-Messaging-Bot\bin\Release\netcoreapp2.1\Workbench-Demo-Messaging-Bot.dll
+C:\Users\hathatuk\source\repos\Workbench-Demo-Messaging-Bot\Workbench-Demo-Messaging-Bot\bin\Release\netcoreapp2.1\Workbench-Demo-Messaging-Bot.pdb
+C:\Users\hathatuk\source\repos\Workbench-Demo-Messaging-Bot\Workbench-Demo-Messaging-Bot\obj\Release\netcoreapp2.1\Workbench-Demo-Messaging-Bot.csprojAssemblyReference.cache
+C:\Users\hathatuk\source\repos\Workbench-Demo-Messaging-Bot\Workbench-Demo-Messaging-Bot\obj\Release\netcoreapp2.1\Workbench-Demo-Messaging-Bot.csproj.CoreCompileInputs.cache
+C:\Users\hathatuk\source\repos\Workbench-Demo-Messaging-Bot\Workbench-Demo-Messaging-Bot\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\hathatuk\source\repos\Workbench-Demo-Messaging-Bot\Workbench-Demo-Messaging-Bot\obj\Release\netcoreapp2.1\Workbench-Demo-Messaging-Bot.AssemblyInfoInputs.cache
+C:\Users\hathatuk\source\repos\Workbench-Demo-Messaging-Bot\Workbench-Demo-Messaging-Bot\obj\Release\netcoreapp2.1\Workbench-Demo-Messaging-Bot.AssemblyInfo.cs
+C:\Users\hathatuk\source\repos\Workbench-Demo-Messaging-Bot\Workbench-Demo-Messaging-Bot\obj\Release\netcoreapp2.1\Workbench-Demo-Messaging-Bot.dll
+C:\Users\hathatuk\source\repos\Workbench-Demo-Messaging-Bot\Workbench-Demo-Messaging-Bot\obj\Release\netcoreapp2.1\Workbench-Demo-Messaging-Bot.pdb
